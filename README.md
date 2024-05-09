@@ -1,13 +1,23 @@
-<h3 align="center">👋 Hi there! I'm RafGonzatto, a a 20-year-old programmer on an exciting journey of learning and growth. 🌱</h3>
+## Hey there! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rafgonzatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-gonzatto" height="30" width="40" /></a>
-</p>
+I'm Raf Gonzatto, a 20-year-old full-stack developer passionate about crafting robust solutions and diving into the world of game development in my spare time. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+### About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafgonzatto&show_icons=true&locale=en&layout=compact" alt="rafgonzatto" /></p>
+- **Frontend/Backend:** I bring deep expertise in JavaScript, TypeScript, and Node.js to the table, ensuring seamless user experiences from front to back. Additionally, proficient in ORM Sequelize and ORM TypeORM for efficient database management.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafgonzatto&show_icons=true&locale=en" alt="rafgonzatto" /></p>
+- **.NET Development:** Proficient in C# for building powerful backend solutions that scale.
+- **Databases:** Skilled in MySQL and PostgreSQL for efficient and organized data management.
+
+### Current Project 🎮
+
+I'm currently working on my first web-based game titled "Cidade dos Anjos". You can check out the repository here: <br>
+ [![Computer Icon](cabeca-virada32.png)](https://github.com/RafGonzatto/CidadeDosAnjosJogo)
+
+### GitHub Stats 📊
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rafgonzatto&show_icons=true&locale=en&layout=compact)
+
+#### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-RafGonzatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafgonzatto)](https://www.linkedin.com/in/rafael-gonzatto-b672371b7)
