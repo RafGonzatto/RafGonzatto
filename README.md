@@ -16,7 +16,7 @@ I'm currently working on my first web-based game titled "Cidade dos Anjos". You 
 
 ### GitHub Stats 📊
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rafgonzatto&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rafgonzatto&show_icons=true&locale=en&layout=compact) 
 
 #### Connect with me:
 
